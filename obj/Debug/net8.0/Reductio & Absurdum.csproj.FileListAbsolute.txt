@@ -1,0 +1,14 @@
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\bin\Debug\net8.0\Reductio & Absurdum.exe
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\bin\Debug\net8.0\Reductio & Absurdum.deps.json
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\bin\Debug\net8.0\Reductio & Absurdum.runtimeconfig.json
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\bin\Debug\net8.0\Reductio & Absurdum.dll
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\bin\Debug\net8.0\Reductio & Absurdum.pdb
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.AssemblyInfoInputs.cache
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.AssemblyInfo.cs
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.csproj.CoreCompileInputs.cache
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.dll
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\refint\Reductio & Absurdum.dll
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.pdb
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\Reductio & Absurdum.genruntimeconfig.cache
+C:\Users\fletc\workspace\csharp\Reductio & Absurdum\obj\Debug\net8.0\ref\Reductio & Absurdum.dll
